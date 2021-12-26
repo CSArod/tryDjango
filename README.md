@@ -1,0 +1,2 @@
+# tryDjango
+working with django
